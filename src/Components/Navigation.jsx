@@ -14,7 +14,7 @@ const Navigation = () => {
         <li>Testimonial</li>
         <li>Priceing</li>
       </ul>
-      <Button />
+      <Button children='Get Started'/>
     </div>
   );
 };
